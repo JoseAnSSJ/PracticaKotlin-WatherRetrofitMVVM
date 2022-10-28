@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wather</string>
+    <string name="main_error_server">Error en el servidor</string>
+    <string name="main_current_weather">Current Weather</string>
+    <string name="main_forcast_weather">Weather ForCast</string>
+    
+    <string name="weather_temp">%.2f°C</string>
+    <string name="weather_dt">Hora: %s</string>
+    <string name="weather_humidity">Humidity: %d%%</string>
+    <string name="weather_pop">Pop: %.1f%%</string>
+</resources>
